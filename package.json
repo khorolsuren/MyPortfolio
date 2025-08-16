@@ -1,6 +1,6 @@
 {
+  "name": "myportfolio",
   "homepage" : "https://khorolsuren.github.io/MyPortfolio/",
-  "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
