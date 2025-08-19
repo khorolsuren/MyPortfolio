@@ -32,5 +32,4 @@ I enjoy building scalable systems, optimizing databases, and crafting user-frien
 
 ---
 
-📬 **Live Demo** → [View Portfolio](https://your-portfolio-link.com)  
-📄 **Download My Resume** → [Download CV](https://your-portfolio-link.com/Dashdavaa_Khorolsuren_CV.pdf)
+📬 **Live Demo** → [View Portfolio](https://khorolsuren.github.io/MyPortfolio/)
